@@ -1,0 +1,4 @@
+https://public.tableau.com/app/profile/jordi.d.az.carn./viz/Lab01_01gender/Hoja1?publish=yes
+https://public.tableau.com/app/profile/jordi.d.az.carn./viz/Lab01_02employstatus/Hoja2?publish=yes
+https://public.tableau.com/app/profile/jordi.d.az.carn./viz/Lab01_03TreeMap/Hoja3?publish=yes
+https://public.tableau.com/app/profile/jordi.d.az.carn./viz/Lab01_04CrossTable/Hoja4?publish=yes
